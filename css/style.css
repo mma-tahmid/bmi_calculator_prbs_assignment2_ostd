@@ -1,0 +1,15 @@
+.bmi_calculator_Design{
+
+    display: grid;
+   margin-left: 20%;
+   margin-right: 20%;
+}
+
+.heading  {
+    text-align: center;
+
+}
+
+.final_output{
+    text-align: center;
+}
